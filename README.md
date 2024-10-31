@@ -35,7 +35,7 @@ system that provide the functionality of managing the videos.
 
 ## Contributing
 
-Contributions make BeShopy better! If you have suggestions, ideas, or improvements, feel free to create an issue or submit a pull request. Be sure to star the repo if you like what you see! 🌟
+Contributions make VMS better! If you have suggestions, ideas, or improvements, feel free to create an issue or submit a pull request. Be sure to star the repo if you like what you see! 🌟
 
 ## Support & Feedback
 
